@@ -2,9 +2,9 @@
  
 # ZinhZinh-Attack DDoS
  <p>
- <img src="https://bom.so/cCFq0F"/> &nbsp;
- <img src="https://bom.so/cCFq0F"/> &nbsp;
- <img src="https://bom.so/cCFq0F"/> &nbsp;
+ <img src="[https://bom.so/cCFq0F](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-1/344560443_1425197418292356_5655805508674914776_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LH0k4SY9eFkAX-O6NND&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfDkZn1CnpKFOTTdFT2yC3Q4o9dsmmZWaKsVUAyTxnwHPw&oe=645DCCC4)"/> &nbsp;
+ <img src="[https://bom.so/cCFq0F](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-1/344560443_1425197418292356_5655805508674914776_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LH0k4SY9eFkAX-O6NND&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfDkZn1CnpKFOTTdFT2yC3Q4o9dsmmZWaKsVUAyTxnwHPw&oe=645DCCC4)"/> &nbsp;
+ <img src="[https://bom.so/cCFq0F](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-1/344560443_1425197418292356_5655805508674914776_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LH0k4SY9eFkAX-O6NND&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfDkZn1CnpKFOTTdFT2yC3Q4o9dsmmZWaKsVUAyTxnwHPw&oe=645DCCC4)"/> &nbsp;
  
 </p>
  DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
@@ -15,11 +15,11 @@
 
 ## Language</br>
 
- <img src="https://bom.so/cCFq0F"/></br>
+ <img src="[https://bom.so/cCFq0F](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-1/344560443_1425197418292356_5655805508674914776_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LH0k4SY9eFkAX-O6NND&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfDkZn1CnpKFOTTdFT2yC3Q4o9dsmmZWaKsVUAyTxnwHPw&oe=645DCCC4)"/></br>
 </div>
 
 ## Menu
-![zinhzinhq9](https://bom.so/cCFq0F)
+![zinhzinhq9]([https://bom.so/cCFq0F](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-1/344560443_1425197418292356_5655805508674914776_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=102&ccb=1-7&_nc_sid=7206a8&_nc_ohc=LH0k4SY9eFkAX-O6NND&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfDkZn1CnpKFOTTdFT2yC3Q4o9dsmmZWaKsVUAyTxnwHPw&oe=645DCCC4))
 
 ## Methods
 
